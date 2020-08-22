@@ -1,6 +1,6 @@
-# flyingBird
+# self-control
 ```
-高仿移动端小游戏
+自制小游戏（尝试）
 ```
 
 ## Project setup
