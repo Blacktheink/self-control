@@ -1,4 +1,7 @@
-# vue-vant
+# flyingBird
+```
+高仿移动端小游戏
+```
 
 ## Project setup
 ```
